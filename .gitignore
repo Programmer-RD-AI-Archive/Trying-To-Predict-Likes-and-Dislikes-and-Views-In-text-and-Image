@@ -130,3 +130,4 @@ dmypy.json
 Model/data/BR_youtube_trending_data.csv
 Model/data/CA_youtube_trending_data.csv
 Model/data/CAvideos.csv
+Model/data/DE_youtube_trending_data.csv
