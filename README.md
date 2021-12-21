@@ -61,11 +61,9 @@ This module requires the following modules:
 
 ## Datasets
 
-https://www.kaggle.com/paultimothymooney/poetry
-https://www.kaggle.com/omarhanyy/500-greatest-songs-of-all-time
-https://www.kaggle.com/PromptCloudHQ/taylor-swift-song-lyrics-from-all-the-albums
-https://www.kaggle.com/albertsuarez/azlyrics
-https://www.kaggle.com/deepshah16/song-lyrics-dataset
+https://www.kaggle.com/datasnaek/youtube-new?select=CAvideos.csv
+https://www.kaggle.com/datasnaek/youtube?select=GBvideos.csv
+https://www.kaggle.com/rsrishav/youtube-trending-video-dataset?select=BR_youtube_trending_data.csv
 
 ## Troubleshooting
 
