@@ -211,7 +211,7 @@ livereload==2.6.3
 llvmlite==0.36.0
 locket==0.2.1
 lxml>=4.6.5
-Mako==1.1.6
+Mako==1.2.2
 Markdown==3.3.6
 MarkupSafe @ file:///home/conda/feedstock_root/build_artifacts/markupsafe_1621455677251/work
 marshmallow==3.14.1
