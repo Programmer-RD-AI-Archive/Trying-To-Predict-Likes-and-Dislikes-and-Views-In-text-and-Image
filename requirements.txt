@@ -170,7 +170,7 @@ intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
 iopath==0.1.9
 ipaddress==1.0.23
 ipykernel==6.5.1
-ipython==7.29.0
+ipython==8.10.0
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets==7.6.5
 isort @ file:///tmp/build/80754af9/isort_1616355431277/work
