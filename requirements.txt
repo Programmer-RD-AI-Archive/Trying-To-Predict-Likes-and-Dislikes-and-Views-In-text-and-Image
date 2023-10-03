@@ -284,7 +284,7 @@ pep8==1.7.1
 pexpect==4.8.0
 phonenumbers==8.12.37
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==8.4.0
+Pillow==10.0.1
 pip-review==1.1.0
 pipenv==2021.11.23
 pkginfo==1.7.0
